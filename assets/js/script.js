@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Harshit Mishra";
+            document.title = "Portfolio | Aditya Gupta";
             $("#favicon").attr("href", "assets/images/Untitled design.png");
         }
         else {
