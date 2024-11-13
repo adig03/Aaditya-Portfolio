@@ -56,17 +56,17 @@ $(document).ready(function () {
 
 });
 
-document.addEventListener('visibilitychange',
-    function () {
-        if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Aditya Gupta";
-            $("#favicon").attr("href", "assets/images/Untitled design.png");
-        }
-        else {
-            document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "assets/images/Untitled design.png");
-        }
-    });
+// document.addEventListener('visibilitychange',
+//     function () {
+//         if (document.visibilityState === "visible") {
+//             document.title = "Portfolio | Aditya Gupta";
+//             $("#favicon").attr("href", "assets/images/Untitled design.png");
+//         }
+//         else {
+//             document.title = "Come Back To Portfolio";
+//             $("#favicon").attr("href", "assets/images/Untitled design.png");
+//         }
+//     });
 
 
 // <!-- typed js effect starts -->
