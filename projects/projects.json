@@ -2,7 +2,7 @@
   {
     "name": "PreEngine",
     "desc": "An Android app for CS exam prep with real-time chat and interactive content.",
-    "image": "./assets/images/PrepEngine.jpg",
+    "image": "../assets/images/PrepEngine.jpg",
     "category": "Android",
     "links": {
       "view": "https://drive.google.com/file/d/1TmOxfhKRV42LZRwv1z5zAaHBngALzEJT/view",
@@ -12,7 +12,7 @@
   {
     "name": "BuzzChat",
     "desc": "A chat app with group messaging and secure login for quick, easy connections.",
-    "image": "./assets/images/BuzzChat.jpeg",
+    "image": "../assets/images/BuzzChat.jpeg",
     "category": "Android",
     "links": {
       "view": "https://drive.google.com/file/d/18mZd8fVUTDEOgwZRbevvV0590Km9ABur/view",
@@ -22,7 +22,7 @@
   {
     "name": "Headlines Hub",
     "desc": "A news app for trending stories and breaking news, designed for quick access.",
-    "image": "./assets/images/headlines.webp",
+    "image": "../assets/images/headlines.webp",
     "category": "Android",
     "links": {
       "view": "",
