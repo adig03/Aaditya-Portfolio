@@ -1,7 +1,7 @@
 [
   {
-    "name": "PreEngine",
-    "desc": "An Android app for CS exam prep with real-time chat and interactive content.",
+    "name": "PrepEngine",
+    "desc": "An Android app for CS exam prep featuring real-time chat, practice problems, and progress tracking.",
     "image": "./assets/images/PrepEngine.jpg",
     "category": "Android",
     "links": {
@@ -11,7 +11,7 @@
   },
   {
     "name": "BuzzChat",
-    "desc": "A chat app with group messaging and secure login for quick, easy connections.",
+    "desc": "Secure messaging app with group chats, real-time sync, and end-to-end encryption.",
     "image": "./assets/images/BuzzChat.jpeg",
     "category": "Android",
     "links": {
@@ -21,12 +21,32 @@
   },
   {
     "name": "Headlines Hub",
-    "desc": "A news app for trending stories and breaking news, designed for quick access.",
+    "desc": "News aggregator app delivering curated content with offline reading and bookmarking.",
     "image": "./assets/images/headlines.webp",
     "category": "Android",
     "links": {
       "view": "",
       "code": "https://github.com/adig03/Headlines-Hub"
+    }
+  },
+  {
+    "name": "Hostel App Design",
+    "desc": "Modern UI/UX design for hostel management featuring room booking, maintenance requests, and payments.",
+    "image": "./assets/images/HostelApp.png",
+    "category": "UI/UX Design",
+    "links": {
+      "view": "https://www.figma.com/design/b0pxYP8HFlIQvttPS4LIkr/Hostel-App?node-id=6-201&t=PiqRzi2vhqL9Esl0-1",
+      "code": "https://www.figma.com/design/b0pxYP8HFlIQvttPS4LIkr/Hostel-App?node-id=6-201&t=PiqRzi2vhqL9Esl0-1"
+    }
+  },
+  {
+    "name": "Wellness Buddy Design",
+    "desc": "Mental health platform design connecting therapists and patients with secure consultations and mood tracking.",
+    "image": "./assets/images/WellnessBuddy.png",
+    "category": "UI/UX Design",
+    "links": {
+      "view": "https://www.figma.com/design/LmbBqndGzidOwLlxG14Cgg/Wellness-Buddy?node-id=0-1&p=f&t=uhkAqlldxu9HI9mw-0",
+      "code": "https://www.figma.com/design/LmbBqndGzidOwLlxG14Cgg/Wellness-Buddy?node-id=0-1&p=f&t=uhkAqlldxu9HI9mw-0"
     }
   }
 ]
